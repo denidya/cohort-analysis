@@ -20,5 +20,6 @@ data cleaning step :
 - simplify status
 
 ## Result
-this is a result from doing some data analysis based on user behavior.
+this is a result from doing some data analysis based on user behaviour.
+
 ![output](https://user-images.githubusercontent.com/41662335/144259122-2fe194f2-3be5-4f11-a701-0674f71b503a.png)
